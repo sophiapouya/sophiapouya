@@ -1,6 +1,6 @@
 ## Neuroscience Research Projects
+- [conflict-monitoring-action-inhibition-experiment](https://github.com/sophiapouya/conflict-monitoring-action-inhibition-task): Behavioral research experiment designed in a python/linux-based environment to test action inhibition and conflict montioring 
 - [single-neuron-analysis](https://github.com/sophiapouya/single-neuron-analysis): Research project on single neuron recoordings collected during a Stroop task from following brain regions: amygdala, hippocampus, pre-supplementary motor area, and prefrontal cortex.
-- [cognitive-control-task](https://github.com/sophiapouya/cognitive-control-task): Python-based behavioral task development to test cognitive control.
 
 ## Neuroscience Data Analysis 
 - [ieeg-analysis](https://github.com/sophiapouya/ieeg-analysis): Python-based scripts to process intracranial EEG data from Epilepsy patients 
