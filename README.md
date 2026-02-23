@@ -1,4 +1,5 @@
 ## Neuroscience Research Projects
+- [depression-severity-dbs](https://github.com/sophiapouya/depression-severity-dbs/tree/dbs-paper): Intracranial DBS research project investigating neural biomarkers of depression and applying machine learning models to decode depression severity from electrophysiological signals.
 - [conflict-monitoring-action-inhibition-experiment](https://github.com/sophiapouya/conflict-monitoring-action-inhibition-task): Behavioral research experiment designed in a python/linux-based environment to test action inhibition and conflict montioring 
 - [single-neuron-analysis](https://github.com/sophiapouya/single-neuron-analysis): Research project on single neuron recoordings collected during a Stroop task from following brain regions: amygdala, hippocampus, pre-supplementary motor area, and prefrontal cortex.
 
