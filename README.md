@@ -12,9 +12,6 @@
 - [digit-recognition](https://github.com/sophiapouya/DigitRecognition) – C++ handwritten digit classifier
 - [concurrency](https://github.com/sophiapouya/Concurrency) – Threaded programming in C++
 
-## Machine Learning
-- [python-ml](https://github.com/sophiapouya/python-ml) – ML experiments in Jupyter Notebooks
-
 ## Coursework
 - [data-structures](https://github.com/sophiapouya/DataStructures) – Java implementation of core structures
 
